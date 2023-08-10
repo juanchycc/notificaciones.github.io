@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "622500055950",
+    "project_id": "isef-68b63",
+    "storage_bucket": "isef-68b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622500055950:android:fd69b1bce7fddf28dd32df",
+        "android_client_info": {
+          "package_name": "com.example.aplicacion_isef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622500055950-6rr3o0hijrrg87b5d0sh89noaq72jhfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3hkWHYcwF-J3hXP3Z3tR6eX6bPjXt8-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622500055950-6rr3o0hijrrg87b5d0sh89noaq72jhfa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622500055950-1eg20nd6pk6m7l3tj4tc4cu44dsf5fj2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplicacionIsef"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622500055950:android:09797ea5e3d1b909dd32df",
+        "android_client_info": {
+          "package_name": "com.example.web_admin_isef"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622500055950-6rr3o0hijrrg87b5d0sh89noaq72jhfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3hkWHYcwF-J3hXP3Z3tR6eX6bPjXt8-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622500055950-6rr3o0hijrrg87b5d0sh89noaq72jhfa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "622500055950-1eg20nd6pk6m7l3tj4tc4cu44dsf5fj2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aplicacionIsef"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
